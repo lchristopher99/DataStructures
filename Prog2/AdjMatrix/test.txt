@@ -1,0 +1,11 @@
+add 1
+add 2
+add 1 to 2 weight 5
+display list
+display vertices
+display matrix
+find 1 to 2
+remove 1 to 2
+add 1 to 2 weight 7
+display list
+exit

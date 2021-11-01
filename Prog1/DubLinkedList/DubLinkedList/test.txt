@@ -1,0 +1,14 @@
+insert Logan 5
+insert lance 4
+insert nos 3
+display
+insert test 7
+insert john 10
+display
+find Logan
+find nos
+help
+insert todd 3 before nos
+insert tony 8 after nos
+remove test
+display
